@@ -120,8 +120,6 @@ if(isset($_POST['submit']))
             </div>
             <div class="form-check">
                 <label class="form-check-label" for="check2">
-                    <a href="form.php">Back</a>
-                    <a href="form.php">Back</a>
                     <input type="checkbox" class="form-check-input" name="h[]" value=" Travel"> Travel
                 </label>
             </div>
